@@ -6,5 +6,3 @@ def flash():
 
 
 
-while True:
-    print("true for feature 1")
