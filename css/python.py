@@ -1,0 +1,5 @@
+def flash():
+
+
+
+    print("flash")
